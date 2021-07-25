@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello  I'm Ritshuisei</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello  I'm Ritshu</h1>
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Ritshu/Ritshu/blob/main/Hoshimachi.gif">
 </div>
