@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="left">My Stats:</h3>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritshu&count-private=true&layout=compact&theme=onedark" alt="Ritshu" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritshu&count-private=true&layout=compact&theme=onedark" alt="ritshu" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ritshu"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ritshu" /></a></p><br><br>
