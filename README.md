@@ -2,21 +2,20 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/216282035503890442?hideDiscrim=true&borderRadius=28px&idleMessage=☄️%20Hoshiyomis%20☄️)](https://discord.com/users/216282035503890442)
 
- <details>
- <summary>My Stats</summary>
- <br/>
- <details> 
- <summary>Noo don't look at my stats 😔</summary>
+<details><summary> My Stats </summary><blockquote>
+<details><summary> Noo don't look at my stats 😔 </summary><blockquote>
+<details><summary> Github </summary><blockquote>
  
 [![Ritshu](https://github-readme-stats.vercel.app/api/top-langs/?username=ritshu&&theme=tokyonight&title_color=fce9ed)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ritshu](https://github-readme-stats.vercel.app/api?username=ritshu&count_private=true&show_icons=true&theme=tokyonight&title_color=fce9ed)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Horizuki](https://github-readme-streak-stats.herokuapp.com?user=ritshu&theme=tokyonight)](https://git.io/streak-stats)
- <br/>
- </details>
- </details>
-
+ 
+</blockquote></details>
+</blockquotes></details>
+</blockquotes></details>
+ 
 <details>
  <summary>Support me</summary>
  <br/>
