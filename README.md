@@ -6,11 +6,11 @@
 <details><summary> Noo don't look at my stats 😔 </summary><blockquote>
 <details><summary> Github </summary><blockquote>
  
-[![Ritshu](https://github-readme-stats.vercel.app/api/top-langs/?username=ritshu&&theme=tokyonight&title_color=fce9ed)](https://github.com/anuraghazra/github-readme-stats)
+ [![Shu's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritshu&layout=compact&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ritshu](https://github-readme-stats.vercel.app/api?username=ritshu&count_private=true&show_icons=true&theme=tokyonight&title_color=fce9ed)](https://github.com/anuraghazra/github-readme-stats)
+[![Shu's Github Stats](https://github-readme-stats.vercel.app/api?username=ritshu&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Horizuki](https://github-readme-streak-stats.herokuapp.com?user=ritshu&theme=tokyonight)](https://git.io/streak-stats)
+[![Shu's Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=ritshu&theme=tokyonight)](https://git.io/streak-stats)
  
 </blockquote></details>
 </blockquotes></details>
