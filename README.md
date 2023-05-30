@@ -17,5 +17,5 @@
 
 ### <p align="center">Github Stats</p>
 <p align="center">
-   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ritshu&show_icons=true&count_private=true&theme=algolia" />&nbsp;<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritshu&layout=compact&count_private=true&theme=algolia" alt="Ritshu" />
+   <img height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ritshu&show_icons=true&count_private=true&theme=algolia" />&nbsp;<img height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ritshu&layout=compact&count_private=true&theme=algolia" alt="Ritshu" />
 </p>
