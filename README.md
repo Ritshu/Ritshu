@@ -1,5 +1,5 @@
 <p align="center">
-<img height="180px" src="https://lanyard-profile-readme.vercel.app/api/216282035503890442?theme=dark&idleMessage=☄️%20Hoshiyomi%20☄️&bg=050F2C" />
+<img height="180px" src="https://lanyard-profile-readme.vercel.app/api/216282035503890442?theme=dark&hideDiscrim=true&idleMessage=☄️%20Hoshiyomi%20☄️&bg=050F2C" />
 </p>
 <p align="center"> <img src="https://count.getloli.com/get/@Ritshu?theme=rule34" alt="ritshu" /> </p>
 
